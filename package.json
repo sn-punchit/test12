@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sumeetninawe/test12/issues"
   },
-  "homepage": "https://github.com/sumeetninawe/test12"
+  "homepage": "https://github.com/sumeetninawe/test12",
+  "dependencies": {
+    "swig": "^1.4.2"
+  }
 }
